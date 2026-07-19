@@ -18,5 +18,4 @@ class Program
     // TODO: Implementar funciones de suma, resta, multiplicación, división
 }
 //esto la partees
-
-//Parte agregado de Willson Humblers. carne 0902 25 12915
+// parte agregado de Willson Humblers
