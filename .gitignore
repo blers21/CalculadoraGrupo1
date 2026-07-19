@@ -1,2 +1,3 @@
 echo "obj/" >> .gitignore
 echo "bin/" >> .gitignore
+echo "calculator/obj/" >> .gitignore
